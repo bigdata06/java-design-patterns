@@ -48,7 +48,7 @@ package com.iluwatar.adapter;
 public class App {
 
   /**
-   * Program app entry point.
+   * Program entry point.
    *
    * @param args command line args
    */
